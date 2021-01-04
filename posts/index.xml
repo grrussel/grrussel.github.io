@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>grrussel.github.io</title>
-    <link>http://grrussel.github.io/</link>
-    <description>Recent content on grrussel.github.io</description>
+    <title>Posts on grrussel.github.io</title>
+    <link>http://grrussel.github.io/posts/</link>
+    <description>Recent content in Posts on grrussel.github.io</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 04 Jan 2021 18:56:08 +0100</lastBuildDate>
     
-	<atom:link href="http://grrussel.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://grrussel.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
