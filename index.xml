@@ -17,7 +17,9 @@
       <pubDate>Mon, 04 Jan 2021 18:56:08 +0100</pubDate>
       
       <guid>http://grrussel.github.io/posts/my-first-post/</guid>
-      <description>module HelloWorld; import Out; procedure Main(args:array of STRING) : INTEGER; begin Out.String(&amp;quot;Hello World&amp;quot;); Out.Ln(); return 0; end Main; $ python parser.py -i ZondApps/HelloWorld.ob2 -o hello $ ./hello Hello World $ Why? Well, why not.</description>
+      <description>&lt;p&gt;There are many &lt;a href=&#34;https://en.wikipedia.org/wiki/%22Hello,_World!%22_program&#34;&gt;Hello World programs&lt;/a&gt;
+for many programming languages. This program, in this language, serves as one more such.&lt;/p&gt;
+&lt;p&gt;Why? Well, why not.&lt;/p&gt;</description>
     </item>
     
     <item>
