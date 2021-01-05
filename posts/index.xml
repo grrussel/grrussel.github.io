@@ -6,10 +6,22 @@
     <description>Recent content in Posts on idle thoughts</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 04 Jan 2021 18:56:08 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 05 Jan 2021 15:39:11 +0100</lastBuildDate>
     
 	<atom:link href="http://grrussel.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Raytrace</title>
+      <link>http://grrussel.github.io/posts/raytrace/</link>
+      <pubDate>Tue, 05 Jan 2021 15:39:11 +0100</pubDate>
+      
+      <guid>http://grrussel.github.io/posts/raytrace/</guid>
+      <description>&lt;p&gt;The &lt;a href=&#34;http://www.raytracerchallenge.com/&#34;&gt;raytracer challenge&lt;/a&gt; book provides a test driven,
+easy to to get started with, from scratch, step by step project to build yourself a raytracer
+to create pretty pictures.&lt;/p&gt;
+&lt;p&gt;Turns out a raytracer makes for a nice benchmark and testcase for language implementations, too.&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Hello World</title>
